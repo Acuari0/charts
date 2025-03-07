@@ -3,7 +3,6 @@ This dependency is discontinued but if you used it in the past and need to updat
 
 *Note*: This is not an official Google product.
 
-[![Travis CI Build Status](https://travis-ci.org/google/charts.svg?branch=master)](https://travis-ci.org/google/charts)
 
 ## charts_common
 
