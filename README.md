@@ -4,6 +4,16 @@ This dependency is discontinued but if you used it in the past and you need to u
 *Note*: This is not an official Google product.
 
 
+#HOW TO USE IT
+
+add to your pubspec.yaml
+
+  charts_flutter:
+    git:
+      url: https://github.com/Acuari0/charts.git
+      ref: master
+      path: charts_flutter
+
 ## charts_common
 
 [![charts_common pub package](https://img.shields.io/pub/v/charts_common.svg)](https://pub.dartlang.org/packages/charts_common)
