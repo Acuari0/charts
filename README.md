@@ -4,7 +4,7 @@ This dependency is discontinued but if you used it in the past and you need to u
 *Note*: This is not an official Google product.
 
 
-#HOW TO USE IT
+# HOW TO USE IT
 
 add to your pubspec.yaml
 
