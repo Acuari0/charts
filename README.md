@@ -1,5 +1,5 @@
 # INFO
-This dependency is discontinued but if you used it in the past and need to update the intl dependency i update this dependency for it accept intl: 0.18.0
+This dependency is discontinued but if you used it in the past and you need to update the intl dependency i update this dependency for it accept intl: 0.18.0
 
 *Note*: This is not an official Google product.
 
