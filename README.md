@@ -1,8 +1,5 @@
-# Discontinued
-
-**This project is no longer maintained**, and will not receive further updates. Community members interested in collaborating on a community-maintained fork can coordinate in [this issue](https://github.com/google/charts/issues/798).
-
----
+# INFO
+This dependency is discontinued but if you used it in the past and need to update the intl dependency i update this dependency for it accept intl: 0.18.0
 
 Charts is a general charting library, currently enabled for the
 [Flutter mobile UI framework](https://flutter.io).
