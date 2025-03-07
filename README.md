@@ -12,7 +12,7 @@ add to your pubspec.yaml
 dependencies:
   charts_flutter:
     git:
-      url: [https://github.com/Acuari0/charts.git](https://github.com/Acuari0/charts.git)
+      url: https://github.com/Acuari0/charts.git
       ref: master
       path: charts_flutter
 ```
