@@ -8,11 +8,14 @@ This dependency is discontinued but if you used it in the past and you need to u
 
 add to your pubspec.yaml
 
+  ```yaml
+dependencies:
   charts_flutter:
     git:
-      url: https://github.com/Acuari0/charts.git
+      url: [https://github.com/Acuari0/charts.git](https://github.com/Acuari0/charts.git)
       ref: master
       path: charts_flutter
+```
 
 ## charts_common
 
